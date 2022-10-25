@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos_de_futbol>
+   <equipo>
+      <nombre>Celta</nombre>
+      <ciudad>Vigo</ciudad>
+      <entrenador></entrenador>
+      <jugadores>
+         <jugador posicion="portero">
+            <nombre>Armando Casas</nombre>
+            <nacionalidad>arxentina
+         </jugador>
+         <jugador posicion="delantero">
+            <nombre>Estevan Quito</nombre>
+            <nacionalidad>española</nacionalidad>
+         </jugador>
+      </jugadores>
+   </equipo>
+   <equipo>
+      <nombre>Deportivo</nombre>
+      <ciudad>Coruña
+      <entrenador></entrenador>
+      <jugadores>
+         <jugador posicion="portero">
+            <nombre>Aitor Tilla</nombre>
+            <nacionalidad>española</nacionalidad>
+         </jugador>
+         <jugador posicion="centrocampista">
+            <nombre>Pepito Chocolatero</nombre>
+            <nacionalidad>española</nacionalidad>
+         </jugador>
+      </jugadores>
+   </equipo>
+</equipos_de_futbol>
