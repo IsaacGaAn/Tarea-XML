@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marcadores>
+  <pagina>
+    <nombre>Wikipedia</nombre>
+    <descripcion>La enciclopedia libre .</descripcion>
+    <url>http://gl.wikipedia.org/</url>
+  </pagina>
+  <pagina>
+    <nombre>Wiki del CIFP Rodolfo Ucha
+    <descripcion>Wiki con interesantes contenidos técnicos.</descripcion>
+    <url>http://wiki.cifprodolfoucha.es/</url>
+  </pagina>
+  <pagina>
+    <nombre>w3schools</nombre>
+    <descripcion>Tutoriales en inglés.
+    <url>http://w3schools.com/</url>
+  </pagina>
+</marcadores>
