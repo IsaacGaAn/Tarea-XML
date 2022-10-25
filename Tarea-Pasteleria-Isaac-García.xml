@@ -1,0 +1,23 @@
+<?xml version="1.1" encoding="utf-8"?>
+<venta
+  xmlns="http://www.dulceterapia.com/espaciosdenombres/ventas/"
+  xmlns:cl="http://www.dulceterapia.com/espaciosdenombres/clientes/"
+  xmlns:pr="http://www.dulceterapia.com/espaciosdenombres/productos/">
+  <cl:cliente>
+    <cl:cod>C94894894</cl:cod>
+    <cl:nombre>Isaac García Aneiros</cl:nombre>
+    <cl:dirección>Rúa Joaquín Bruquetas 97, 1ºB</cl:dirección>
+    <cl:teléfono>692487324</cl:teléfono>
+  </cl:cliente>
+  <pr:productos>
+    <pr:tarta>
+      <pr:cod>T53</pr:cod>
+      <pr:descripción>Tarta de fresa y nata</pr:descripción>
+    </pr:tarta>
+    <pr:tarta>
+      <pr:cod>T24</pr:cod>
+      <pr:descripción>Tarta de chocolate</pr:descripción>
+    </pr:tarta> … 
+  </pr:productos> … 
+  <importe_total>52€</importe_total>
+</venta>
